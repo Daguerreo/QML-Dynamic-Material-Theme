@@ -9,6 +9,7 @@
 *.so.*
 *.dll
 *.dylib
+*~
 
 # Qt-es
 object_script.*.Release
@@ -29,6 +30,7 @@ ui_*.h
 *.jsc
 Makefile*
 *build-*
+*build/*
 *.qm
 *.prl
 
