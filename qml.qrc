@@ -2,5 +2,8 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>qtquickcontrols2.conf</file>
+        <file>ThemeDrawer.qml</file>
+        <file>ColorButton.qml</file>
+        <file>Style.qml</file>
     </qresource>
 </RCC>
